@@ -30,4 +30,4 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/table-to-csv.git 
+   git clone https://github.com/jobforweb/table-to-csv.git
